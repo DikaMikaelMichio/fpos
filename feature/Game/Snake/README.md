@@ -1,15 +1,10 @@
 Terminal Snake game written in Free Pascal.
 
-## Requirements
-
-- Free Pascal compiler available from http://www.freepascal.org/
-- Xcode console development tools (OS X)
-
 ## Installation
 
 _Install Free Pascal, compile with `fpc snake.pas` and run snake binary._
 
-## Author
+## Thank to Author
 
 frin ([@andrejst](https://twitter.com/andrejst))
 
