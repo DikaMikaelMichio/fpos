@@ -1,4 +1,5 @@
-Terminal Snake game written in Free Pascal.
+Snake game feature
+This feature for make you not bored when using FpOs
 
 ## Installation
 
