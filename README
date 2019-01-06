@@ -25,7 +25,7 @@ Changed:
 - Updated to FPC RTL revision 14499
 
 Added:
--
+- Game feature (Snake)
 
 Next:
 - System calls
@@ -34,6 +34,7 @@ Next:
 
 Note:
 - Some files are not used due to unusability ( multitasking & filesystem )
+- The game (snake) feature might not function well enough (testing)
 
 How to compile:
 - Make sure you have working FPC installation ( try using latest 2.5.x
